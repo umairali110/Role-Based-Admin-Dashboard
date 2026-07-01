@@ -46,12 +46,3 @@ frontend/
 
 - **User**
   - Can only view employees created by themselves
-
----
-## 👨‍💻 Author
-
-<<<<<<< HEAD
-- Developed by: Your Name
-=======
-- Developed by: Your Name
->>>>>>> b58815e1e306a09800856f045d8d7fe0e05836c6
